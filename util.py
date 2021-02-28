@@ -1,0 +1,1 @@
+calUrl = '<iCal link here>'
